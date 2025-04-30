@@ -1,2 +1,2 @@
 # etiquetado_new
-1416 fotos de Flickr para etiquetado manual 
+1082 fotos de Flickr para etiquetado manual 
